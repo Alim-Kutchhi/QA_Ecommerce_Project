@@ -14,12 +14,6 @@ Testing was performed on [SauceDemo](https://www.saucedemo.com/), a public demo 
 - **BugReports/QA_BugReport_Template.xlsx**  
   Log of defects discovered during test execution, with reproduction steps, expected vs. actual results, and severity ratings.
 
-- **Screenshots/** *(optional)*  
-  Screenshots of failed test cases or bugs for visual reference.
-
-- **Automation/** *(optional)*  
-  Future Selenium or Python scripts for automating some of the manual test cases.
-
 ## Features Tested
 - Login functionality (valid and invalid credentials)
 - Adding and removing items from the cart

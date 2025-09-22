@@ -1,6 +1,6 @@
 # Create a starter README.md for the QA project
 
-readme_content = """# QA E-Commerce Testing Project
+# QA E-Commerce Testing Project
 
 ## Overview
 This project demonstrates manual QA testing skills by testing core functionality of a sample e-commerce web application. 

@@ -1,5 +1,3 @@
-# Create a starter README.md for the QA project
-
 # QA E-Commerce Testing Project
 
 ## Overview
@@ -35,4 +33,3 @@ Testing was performed on [SauceDemo](https://www.saucedemo.com/), a public demo 
 
 ---
 *Author: Alim Kutchhi*
-"""
